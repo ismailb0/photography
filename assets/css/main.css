@@ -1402,7 +1402,7 @@
 		left: 0;
 		line-height: 4em;
 		padding: 0 1.5em;
-		position: fixed;
+		position: inherit;
 		user-select: none;
 		width: 100%;
 		z-index: 10002;
